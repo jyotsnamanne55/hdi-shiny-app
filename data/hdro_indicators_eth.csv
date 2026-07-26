@@ -1,0 +1,868 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,2.955,1990
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,2.780,1991
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,2.615,1992
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,2.451,1993
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,2.286,1994
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,2.532,1995
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,2.928,1996
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,3.251,1997
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,3.574,1998
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,3.897,1999
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,4.218,2000
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,4.731,2001
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,5.023,2002
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,5.178,2003
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,5.507,2004
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.315,2005
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.848,2006
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.381,2007
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.914,2008
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.941,2009
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.022,2010
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.199,2011
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.268,2012
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.328,2013
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.389,2014
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.449,2015
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.509,2016
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.663,2017
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.818,2018
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.973,2019
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.094,2020
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.218,2021
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.218,2022
+ETH,Ethiopia,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.218,2023
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,2.418,1990
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,2.267,1991
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,2.125,1992
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,1.984,1993
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,1.842,1994
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,1.968,1995
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,2.205,1996
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,2.457,1997
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,2.708,1998
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,2.959,1999
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,3.328,2000
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,3.812,2001
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,4.089,2002
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,4.208,2003
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,4.599,2004
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.468,2005
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.061,2006
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.655,2007
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.248,2008
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.407,2009
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.490,2010
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.722,2011
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.843,2012
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.878,2013
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.913,2014
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.948,2015
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.983,2016
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.128,2017
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.272,2018
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.417,2019
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.521,2020
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.628,2021
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.628,2022
+ETH,Ethiopia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.628,2023
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,3.483,1990
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,3.284,1991
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,3.096,1992
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,2.908,1993
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,2.720,1994
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,3.080,1995
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,3.626,1996
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,4.018,1997
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,4.410,1998
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,4.802,1999
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,5.074,2000
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,5.614,2001
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,5.920,2002
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.111,2003
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.379,2004
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.129,2005
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.604,2006
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.079,2007
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.555,2008
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.455,2009
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.535,2010
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.659,2011
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.680,2012
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.776,2013
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.873,2014
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.969,2015
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.065,2016
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.196,2017
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.327,2018
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.457,2019
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.579,2020
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.702,2021
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.702,2022
+ETH,Ethiopia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.702,2023
+ETH,Ethiopia,gdi_group,GDI Group,GDI,Gender Development Index,5,2023
+ETH,Ethiopia,gii_rank,GII Rank,GII,Gender Inequality Index,131,2023
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,534.746,1994
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,557.519,1995
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,607.990,1996
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,599.542,1997
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,550.499,1998
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,566.623,1999
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,582.709,2000
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,625.236,2001
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,628.840,2002
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,608.097,2003
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,681.390,2004
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,686.534,2005
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,812.155,2006
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,880.598,2007
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,947.990,2008
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1000.689,2009
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1137.606,2010
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1229.335,2011
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1299.095,2012
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1283.413,2013
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1485.793,2014
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1579.053,2015
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1665.956,2016
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1752.755,2017
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1805.112,2018
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1879.589,2019
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1917.703,2020
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1875.679,2021
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1976.225,2022
+ETH,Ethiopia,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2056.403,2023
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,953.250,1994
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,976.031,1995
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1082.800,1996
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1087.175,1997
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1017.395,1998
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1031.117,1999
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1057.401,2000
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1095.594,2001
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1066.973,2002
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1001.373,2003
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1091.055,2004
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1246.481,2005
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1266.063,2006
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1372.278,2007
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1475.977,2008
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1556.890,2009
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1658.220,2010
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1790.806,2011
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,1890.547,2012
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2147.152,2013
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2194.608,2014
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2370.614,2015
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2543.385,2016
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2723.561,2017
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2857.316,2018
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3032.147,2019
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3157.135,2020
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3350.079,2021
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3393.761,2022
+ETH,Ethiopia,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3531.395,2023
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,882.176,1990
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,784.046,1991
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,683.962,1992
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,743.393,1993
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,742.420,1994
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,765.428,1995
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,844.104,1996
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,842.275,1997
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,783.130,1998
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,798.235,1999
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,819.595,2000
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,860.181,2001
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,847.878,2002
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,804.862,2003
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,886.493,2004
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,967.044,2005
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1039.660,2006
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1127.127,2007
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1212.789,2008
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1279.683,2009
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1398.781,2010
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1511.038,2011
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1595.868,2012
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1716.829,2013
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1841.464,2014
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1976.217,2015
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2106.158,2016
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2239.742,2017
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2332.862,2018
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2457.596,2019
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2539.167,2020
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2614.793,2021
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2686.679,2022
+ETH,Ethiopia,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2795.507,2023
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.244,2000
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.258,2001
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.267,2002
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.270,2003
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.287,2004
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.304,2005
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.327,2006
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.345,2007
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.362,2008
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.371,2009
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.382,2010
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.393,2011
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.401,2012
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.405,2013
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.417,2014
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.424,2015
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.430,2016
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.437,2017
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.443,2018
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.450,2019
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.455,2020
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.454,2021
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.462,2022
+ETH,Ethiopia,hdi_f,HDI female,GDI,Gender Development Index,0.465,2023
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.336,2000
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.349,2001
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.355,2002
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.359,2003
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.371,2004
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.391,2005
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.402,2006
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.417,2007
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.431,2008
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.438,2009
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.447,2010
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.457,2011
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.464,2012
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.474,2013
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.480,2014
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.487,2015
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.494,2016
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.501,2017
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.505,2018
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.510,2019
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.513,2020
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.515,2021
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.522,2022
+ETH,Ethiopia,hdi_m,HDI male,GDI,Gender Development Index,0.525,2023
+ETH,Ethiopia,hdi_rank,HDI Rank,HDI,Human Development Index,180,2023
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,44.335,2011
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,44.335,2012
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,44.335,2013
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,44.335,2014
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,44.335,2015
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.506,2016
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.506,2017
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.506,2018
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.770,2019
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.770,2020
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.770,2021
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.770,2022
+ETH,Ethiopia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.770,2023
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,30.493,2010
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.367,2011
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.367,2012
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.367,2013
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.367,2014
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.367,2015
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,36.455,2016
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,36.455,2017
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,36.455,2018
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,36.455,2019
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,36.455,2020
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,36.455,2021
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,36.455,2022
+ETH,Ethiopia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,36.455,2023
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,33.170,2010
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,32.108,2011
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,30.918,2012
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,29.988,2013
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,29.062,2014
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,28.018,2015
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,27.271,2016
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,26.339,2017
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,25.691,2018
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.896,2019
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.072,2020
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,23.675,2021
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,23.032,2022
+ETH,Ethiopia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,22.366,2023
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.117,1990
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,46.657,1991
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,47.279,1992
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,47.676,1993
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,47.926,1994
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,48.156,1995
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,48.697,1996
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,49.21,1997
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,49.785,1998
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,49.486,1999
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,50.88,2000
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,51.428,2001
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,52.085,2002
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,52.877,2003
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,53.735,2004
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,54.364,2005
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,55.402,2006
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,56.566,2007
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,57.733,2008
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.715,2009
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.709,2010
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,60.595,2011
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.443,2012
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.161,2013
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.927,2014
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.592,2015
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.162,2016
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.766,2017
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.257,2018
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.741,2019
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.969,2020
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.33,2021
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.897,2022
+ETH,Ethiopia,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.315,2023
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,46.772,1990
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.724,1991
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,48.031,1992
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,48.452,1993
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,48.769,1994
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,49.083,1995
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,49.549,1996
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,50.05,1997
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,50.676,1998
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,50.831,1999
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,51.57,2000
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,52.079,2001
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,52.92,2002
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,53.77,2003
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,54.888,2004
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,55.663,2005
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,56.897,2006
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.375,2007
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,59.772,2008
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.898,2009
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,61.971,2010
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.84,2011
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.781,2012
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,64.661,2013
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,65.558,2014
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,66.353,2015
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.049,2016
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.746,2017
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.298,2018
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.863,2019
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.368,2020
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.715,2021
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.313,2022
+ETH,Ethiopia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.726,2023
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,43.47,1990
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,45.58,1991
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,46.524,1992
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,46.898,1993
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,47.085,1994
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,47.238,1995
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,47.856,1996
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,48.377,1997
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,48.899,1998
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,48.157,1999
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,50.191,2000
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,50.777,2001
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,51.255,2002
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,51.992,2003
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,52.6,2004
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.092,2005
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.946,2006
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,54.82,2007
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,55.774,2008
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,56.623,2009
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.542,2010
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.437,2011
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,59.199,2012
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,59.77,2013
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.416,2014
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.962,2015
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.418,2016
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.935,2017
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.369,2018
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.778,2019
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.779,2020
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.144,2021
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.662,2022
+ETH,Ethiopia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.078,2023
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,66.54,1994
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,64.13,1995
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.72,1996
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.3,1997
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.89,1998
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.48,1999
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.86,2000
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.25,2001
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,64.64,2002
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,68.02,2003
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,71.41,2004
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.79,2005
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.73,2006
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.67,2007
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.61,2008
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.55,2009
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.48,2010
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.42,2011
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.36,2012
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.3,2013
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,72.21,2014
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,70.13,2015
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,68.04,2016
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,65.95,2017
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,63.86,2018
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.78,2019
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.69,2020
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.6,2021
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.59,2022
+ETH,Ethiopia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.59,2023
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,89.57,1994
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,87.6,1995
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.64,1996
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.67,1997
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.7,1998
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.73,1999
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.43,2000
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.13,2001
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,84.82,2002
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.52,2003
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.21,2004
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,89.91,2005
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,89.72,2006
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,89.53,2007
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,89.34,2008
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,89.15,2009
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.96,2010
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.77,2011
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.58,2012
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.39,2013
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,87.24,2014
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.09,2015
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,84.94,2016
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.8,2017
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.65,2018
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.5,2019
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.35,2020
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.2,2021
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.07,2022
+ETH,Ethiopia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.07,2023
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,37.176,2011
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,36.952,2012
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,36.508,2013
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,36.303,2014
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.965,2015
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,36.069,2016
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.745,2017
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.714,2018
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.062,2019
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,34.774,2020
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,34.702,2021
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,34.615,2022
+ETH,Ethiopia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,34.406,2023
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.956,1993
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.933,1994
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.909,1995
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.123,1996
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.080,1997
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.878,1998
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.706,1999
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.790,2000
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.872,2001
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.913,2002
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.891,2003
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.913,2004
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.889,2005
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.716,2006
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.976,2007
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.894,2008
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.100,2009
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.814,2010
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.502,2011
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.482,2012
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.612,2013
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.532,2014
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.829,2015
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.063,2016
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.488,2017
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.285,2018
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.418,2019
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.562,2020
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.500,2021
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.439,2022
+ETH,Ethiopia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.460,2023
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1236.314,1990
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1168.708,1991
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1151.376,1992
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1116.588,1993
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1081.661,1994
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1051.619,1995
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1017.627,1996
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,947.119,1997
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,939.582,1998
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,977.934,1999
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,952.836,2000
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,955.106,2001
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,960.466,2002
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,906.120,2003
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,900.378,2004
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,879.856,2005
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,814.157,2006
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,780.300,2007
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,724.708,2008
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,683.814,2009
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,634.714,2010
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,603.165,2011
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,543.319,2012
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,498.450,2013
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,447.356,2014
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,399.171,2015
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,355.663,2016
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,348.311,2017
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,311.852,2018
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,294.022,2019
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,266.690,2020
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,266.690,2021
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,266.690,2022
+ETH,Ethiopia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,266.690,2023
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,177.316,1990
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,172.315,1991
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,157.352,1992
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,164.741,1993
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,162.022,1994
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,155.307,1995
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,164.692,1996
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,154.574,1997
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,151.531,1998
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,158.31,1999
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,148.482,2000
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,155.407,2001
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,151.234,2002
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,141.308,2003
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,141.718,2004
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,142.009,2005
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,133.421,2006
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,125.806,2007
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,117.95,2008
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,105.942,2009
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,104.466,2010
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.912,2011
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,92.291,2012
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,83.509,2013
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,82.682,2014
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,79.432,2015
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,77.374,2016
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,75.196,2017
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,74.733,2018
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,74.505,2019
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,73.654,2020
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,72.373,2021
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,71.137,2022
+ETH,Ethiopia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,69.865,2023
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.062,1990
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.059,1991
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.056,1992
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.056,1993
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.040,1994
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.044,1995
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.047,1996
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.049,1997
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.050,1998
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.048,1999
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.052,2000
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.062,2001
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.062,2002
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.067,2003
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.069,2004
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.064,2005
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.067,2006
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.071,2007
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.076,2008
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.074,2009
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.071,2010
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.081,2011
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.085,2012
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.101,2013
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.117,2014
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.124,2015
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.138,2016
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.137,2017
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.142,2018
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.151,2019
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.135,2020
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.134,2021
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.123,2022
+ETH,Ethiopia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.120,2023
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,36.937,2011
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,36.540,2012
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,36.230,2013
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.921,2014
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.573,2015
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.744,2016
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.433,2017
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.217,2018
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.707,2019
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.432,2020
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.300,2021
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.086,2022
+ETH,Ethiopia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.864,2023
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,1.483,2000
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,1.557,2001
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,1.631,2002
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,1.705,2003
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,1.783,2004
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,1.862,2005
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,1.941,2006
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.020,2007
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.058,2008
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.095,2009
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.133,2010
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.170,2011
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.221,2012
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.273,2013
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.324,2014
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.375,2015
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.427,2016
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.411,2017
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.395,2018
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.380,2019
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.391,2020
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.403,2021
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.403,2022
+ETH,Ethiopia,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.403,2023
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,0.874,2000
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,0.921,2001
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,0.967,2002
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.013,2003
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.072,2004
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.132,2005
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.191,2006
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.25,2007
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.257,2008
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.265,2009
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.272,2010
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.280,2011
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.332,2012
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.383,2013
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.435,2014
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.487,2015
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.538,2016
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.569,2017
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.599,2018
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.630,2019
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.672,2020
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.715,2021
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.715,2022
+ETH,Ethiopia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.715,2023
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.108,2000
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.213,2001
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.318,2002
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.423,2003
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.525,2004
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.627,2005
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.728,2006
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.830,2007
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.935,2008
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.040,2009
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.145,2010
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.25,2011
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.286,2012
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.321,2013
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.357,2014
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.393,2015
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.429,2016
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.360,2017
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.292,2018
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.223,2019
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.197,2020
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.172,2021
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.172,2022
+ETH,Ethiopia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.172,2023
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,47.610,1990
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,49.717,1991
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,51.854,1992
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,53.709,1993
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,55.612,1994
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,57.537,1995
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,59.468,1996
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,61.405,1997
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,63.364,1998
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,65.375,1999
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,67.411,2000
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,69.488,2001
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,71.636,2002
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,73.833,2003
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,76.077,2004
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,78.367,2005
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,80.703,2006
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,83.103,2007
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,85.544,2008
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,88.008,2009
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,90.539,2010
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,93.150,2011
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,95.799,2012
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,98.439,2013
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,101.116,2014
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,103.867,2015
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,106.718,2016
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,109.666,2017
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,112.664,2018
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,115.737,2019
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,118.918,2020
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,122.139,2021
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,125.384,2022
+ETH,Ethiopia,pop_total,"Population, total (millions)",OTHER,Additional Indicators,128.692,2023
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.796,2001
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.796,2002
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.796,2003
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.796,2004
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.973,2005
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,21.373,2006
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,21.373,2007
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,21.373,2008
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,21.373,2009
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.513,2010
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.513,2011
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.513,2012
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.513,2013
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.513,2014
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.286,2015
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.286,2016
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.286,2017
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.286,2018
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.286,2019
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.286,2020
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.543,2021
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,38.925,2022
+ETH,Ethiopia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,38.799,2023
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.204,2001
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.204,2002
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.204,2003
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.204,2004
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.027,2005
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,78.627,2006
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,78.627,2007
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,78.627,2008
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,78.627,2009
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.487,2010
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.487,2011
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.487,2012
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.487,2013
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.487,2014
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.714,2015
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.714,2016
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.714,2017
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.714,2018
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.714,2019
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.714,2020
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.457,2021
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,61.075,2022
+ETH,Ethiopia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,61.201,2023
+ETH,Ethiopia,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,2,2023
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.002,1990
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.122,1991
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.249,1992
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.383,1993
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.526,1994
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.677,1995
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.838,1996
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,3.008,1997
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,3.188,1998
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,3.379,1999
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,3.582,2000
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,3.823,2001
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,4.065,2002
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,4.307,2003
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,4.549,2004
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,4.791,2005
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,4.715,2006
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,4.640,2007
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.427,2008
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.215,2009
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.002,2010
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.790,2011
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.749,2012
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.708,2013
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.667,2014
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.627,2015
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.586,2016
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.554,2017
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.523,2018
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.492,2019
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.457,2020
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.422,2021
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.422,2022
+ETH,Ethiopia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.422,2023
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,6.925,1990
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,7.103,1991
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,7.286,1992
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,7.473,1993
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,7.665,1994
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,7.863,1995
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,8.065,1996
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,8.272,1997
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,8.485,1998
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,8.703,1999
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,8.927,2000
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,9.168,2001
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,9.410,2002
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,9.652,2003
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,9.893,2004
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,10.135,2005
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,10.007,2006
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,9.880,2007
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,11.970,2008
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,14.060,2009
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,16.150,2010
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,18.240,2011
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,17.609,2012
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,16.977,2013
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,16.346,2014
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,15.714,2015
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,15.083,2016
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,14.598,2017
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,14.113,2018
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,13.628,2019
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,13.142,2020
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,12.673,2021
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,12.673,2022
+ETH,Ethiopia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,12.673,2023
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.706,2000
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.629,2001
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.592,2002
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.577,2003
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.511,2004
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.714,2005
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.639,2006
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.567,2007
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.759,2008
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.728,2009
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.687,2010
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.412,2011
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.386,2012
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.587,2013
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.559,2014
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.754,2015
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.728,2016
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.915,2017
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.891,2018
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.075,2019
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.058,2020
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.053,2021
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.024,2022
+ETH,Ethiopia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.012,2023
+ETH,Ethiopia,mpi_value,MPI Value (Range: 0 to 1),MPI,Multidimensional Poverty Index,0.367,2019
+ETH,Ethiopia,mpi_headcount,MPI Headcount (%),MPI,Multidimensional Poverty Index,68.7,2019
+ETH,Ethiopia,mpi_intensity,MPI Intensity (%),MPI,Multidimensional Poverty Index,53.3,2019
+ETH,Ethiopia,nutrition,Contribution of Nutrition to MPI (%),MPI,Multidimensional Poverty Index,12.218,2019
+ETH,Ethiopia,child_mortality,Contribution of Child mortality to MPI (%),MPI,Multidimensional Poverty Index,1.817,2019
+ETH,Ethiopia,years_of_schooling,Contribution of Years of schooling to MPI (%),MPI,Multidimensional Poverty Index,17.374,2019
+ETH,Ethiopia,school_attendance,Contribution of School attendance to MPI (%),MPI,Multidimensional Poverty Index,14.095,2019
+ETH,Ethiopia,cooking_fuel,Contribution of Cooking fuel to MPI (%),MPI,Multidimensional Poverty Index,10.344,2019
+ETH,Ethiopia,sanitation,Contribution of Sanitation to MPI (%),MPI,Multidimensional Poverty Index,9.817,2019
+ETH,Ethiopia,drinking_water,Contribution of Drinking water to MPI (%),MPI,Multidimensional Poverty Index,7.092,2019
+ETH,Ethiopia,electricity,Contribution of Electricity to MPI (%),MPI,Multidimensional Poverty Index,8.680,2019
+ETH,Ethiopia,assets,Contribution of Assets to MPI (%),MPI,Multidimensional Poverty Index,8.330,2019
+ETH,Ethiopia,housing,Contribution of Housing to MPI (%),MPI,Multidimensional Poverty Index,10.234,2019

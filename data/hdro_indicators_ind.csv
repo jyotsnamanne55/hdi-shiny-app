@@ -1,0 +1,972 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.204,1990
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.217,1991
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.229,1992
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.241,1993
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.253,1994
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.265,1995
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.267,1996
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.290,1997
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.302,1998
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.314,1999
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.326,2000
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.808,2001
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.872,2002
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.489,2003
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.759,2004
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.029,2005
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.299,2006
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.569,2007
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.869,2008
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.788,2009
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.109,2010
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.693,2011
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.765,2012
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.809,2013
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.166,2014
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.266,2015
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.680,2016
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.508,2017
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.817,2018
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.754,2019
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.129,2020
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.402,2021
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.956,2022
+IND,India,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.955,2023
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.689,1990
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.741,1991
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.793,1992
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.846,1993
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.899,1994
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.953,1995
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.997,1996
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.083,1997
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.131,1998
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.179,1999
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.227,2000
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.699,2001
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.865,2002
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.855,2003
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.147,2004
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.439,2005
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.731,2006
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.023,2007
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.257,2008
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.491,2009
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.804,2010
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.307,2011
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.655,2012
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.003,2013
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.387,2014
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.507,2015
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.085,2016
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.866,2017
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.853,2018
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.833,2019
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.083,2020
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.318,2021
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.926,2022
+IND,India,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.965,2023
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.617,1990
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.589,1991
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.561,1992
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.533,1993
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.505,1994
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.477,1995
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.439,1996
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.405,1997
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.383,1998
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.362,1999
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.340,2000
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.828,2001
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.800,2002
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.074,2003
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.323,2004
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.572,2005
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.821,2006
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.070,2007
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.066,2008
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.061,2009
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.389,2010
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.787,2011
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.876,2012
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.632,2013
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.964,2014
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.046,2015
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.308,2016
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.179,2017
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.783,2018
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.682,2019
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.171,2020
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.479,2021
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.984,2022
+IND,India,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.945,2023
+IND,India,gdi_group,GDI Group,GDI,Gender Development Index,5,2023
+IND,India,gii_rank,GII Rank,GII,Gender Inequality Index,102,2023
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1024.851,1990
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1000.550,1991
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1013.567,1992
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1005.977,1993
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1026.266,1994
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1072.591,1995
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1134.022,1996
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1161.244,1997
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1211.733,1998
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1296.919,1999
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1346.412,2000
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1660.929,2001
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1676.352,2002
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1754.670,2003
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1838.477,2004
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1866.289,2005
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1992.889,2006
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2057.939,2007
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2020.918,2008
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2076.092,2009
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2179.504,2010
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2286.275,2011
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2219.302,2012
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2382.022,2013
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2465.356,2014
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2561.341,2015
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2662.412,2016
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2727.612,2017
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2579.189,2018
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3044.482,2019
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2925.976,2020
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3289.478,2021
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3611.880,2022
+IND,India,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,4542.612,2023
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3235.302,1990
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3212.724,1991
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3340.354,1992
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3466.598,1993
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3649.069,1994
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3856.674,1995
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4069.751,1996
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4159.403,1997
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4331.865,1998
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4625.173,1999
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4677.487,2000
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4566.600,2001
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4680.077,2002
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4982.026,2003
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,5309.618,2004
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,5718.045,2005
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6074.517,2006
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6527.778,2007
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6685.802,2008
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,7180.636,2009
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,7675.952,2010
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,7967.929,2011
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8410.165,2012
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8776.873,2013
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,9377.348,2014
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,10073.643,2015
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,10852.483,2016
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,11545.166,2017
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,12436.264,2018
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,12437.553,2019
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,11459.680,2020
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,12401.961,2021
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,13037.682,2022
+IND,India,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,13273.464,2023
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2167.222,1990
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2143.712,1991
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2215.914,1992
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2277.498,1993
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2381.705,1994
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2511.582,1995
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2651.649,1996
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2711.416,1997
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2825.256,1998
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3018.349,1999
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3069.545,2000
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3164.162,2001
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3230.410,2002
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3424.493,2003
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3634.456,2004
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3859.176,2005
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4104.613,2006
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4370.340,2007
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4434.020,2008
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4716.353,2009
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5022.132,2010
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5224.307,2011
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5420.181,2012
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5687.829,2013
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6037.902,2014
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6443.561,2015
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6894.228,2016
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,7282.891,2017
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,7670.646,2018
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,7895.441,2019
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,7331.951,2020
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,7992.775,2021
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,8475.680,2022
+IND,India,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,9046.756,2023
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.366,1990
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.368,1991
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.371,1992
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.374,1993
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.377,1994
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.383,1995
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.392,1996
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.400,1997
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.409,1998
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.419,1999
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.427,2000
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.445,2001
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.449,2002
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.465,2003
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.472,2004
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.477,2005
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.488,2006
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.497,2007
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.502,2008
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.510,2009
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.520,2010
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.535,2011
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.539,2012
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.550,2013
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.559,2014
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.565,2015
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.575,2016
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.579,2017
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.571,2018
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.581,2019
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.584,2020
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.582,2021
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.613,2022
+IND,India,hdi_f,HDI female,GDI,Gender Development Index,0.631,2023
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.502,1990
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.506,1991
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.511,1992
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.516,1993
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.522,1994
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.529,1995
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.535,1996
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.541,1997
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.547,1998
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.554,1999
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.559,2000
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.566,2001
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.570,2002
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.579,2003
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.588,2004
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.597,2005
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.605,2006
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.615,2007
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.619,2008
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.625,2009
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.635,2010
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.646,2011
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.653,2012
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.656,2013
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.667,2014
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.675,2015
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.685,2016
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.690,2017
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.692,2018
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.695,2019
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.693,2020
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.688,2021
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.716,2022
+IND,India,hdi_m,HDI male,GDI,Gender Development Index,0.722,2023
+IND,India,hdi_rank,HDI Rank,HDI,Human Development Index,130,2023
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.42,2010
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.42,2011
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.42,2012
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.42,2013
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.42,2014
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,38.668,2015
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,38.668,2016
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,38.668,2017
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,38.668,2018
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,36.876,2019
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,36.876,2020
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,36.876,2021
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,36.876,2022
+IND,India,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,36.876,2023
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,37.147,2010
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,37.147,2011
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.424,2012
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.424,2013
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.424,2014
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.424,2015
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,37.199,2016
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,37.441,2017
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.815,2018
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.210,2019
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,39.357,2020
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.851,2021
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,37.361,2022
+IND,India,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,37.361,2023
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,25.664,2010
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.809,2011
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,23.771,2012
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,22.964,2013
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,22.109,2014
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,21.125,2015
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,20.348,2016
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,19.620,2017
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,18.735,2018
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,18.092,2019
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,17.182,2020
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,16.583,2021
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,15.992,2022
+IND,India,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,15.472,2023
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.618,1990
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.032,1991
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.445,1992
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.823,1993
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,60.237,1994
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,60.63,1995
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.027,1996
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.439,1997
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.852,1998
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.284,1999
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.749,2000
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.158,2001
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.649,2002
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.086,2003
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.484,2004
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.939,2005
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.373,2006
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.803,2007
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.247,2008
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.7,2009
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.162,2010
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.623,2011
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.076,2012
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.499,2013
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.932,2014
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.326,2015
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.709,2016
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.068,2017
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.415,2018
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.746,2019
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.156,2020
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.282,2021
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,71.698,2022
+IND,India,le,Life Expectancy at Birth (years),HDI,Human Development Index,72.003,2023
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,59.358,1990
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,59.805,1991
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.236,1992
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.617,1993
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,61.041,1994
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,61.442,1995
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,61.858,1996
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.3,1997
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.759,1998
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.248,1999
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.794,2000
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,64.277,2001
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,64.855,2002
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,65.376,2003
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,65.844,2004
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,66.376,2005
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,66.873,2006
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.358,2007
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.844,2008
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.327,2009
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.809,2010
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.28,2011
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.735,2012
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.151,2013
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.567,2014
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.94,2015
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.297,2016
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.632,2017
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.963,2018
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.287,2019
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.938,2020
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.835,2021
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,73.271,2022
+IND,India,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,73.598,2023
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.963,1990
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.34,1991
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.728,1992
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,59.094,1993
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,59.492,1994
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,59.868,1995
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.244,1996
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.623,1997
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.99,1998
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.367,1999
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.76,2000
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.102,2001
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.515,2002
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.882,2003
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.221,2004
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.608,2005
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.989,2006
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.373,2007
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.778,2008
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.203,2009
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.644,2010
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.094,2011
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.544,2012
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.97,2013
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.416,2014
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.827,2015
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.231,2016
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.61,2017
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.973,2018
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,69.312,2019
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.529,2020
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.87,2021
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,70.237,2022
+IND,India,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,70.522,2023
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,33.71,1990
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,33.71,1991
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,32.76,1992
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,31.8,1993
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.85,1994
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.82,1995
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.8,1996
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.77,1997
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.75,1998
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.72,1999
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.69,2000
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,37.71,2001
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,37.56,2002
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,37.42,2003
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,37.27,2004
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,37.12,2005
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,35.48,2006
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,33.83,2007
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,32.19,2008
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.54,2009
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.9,2010
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.08,2011
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,27.25,2012
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,26.17,2013
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,25.08,2014
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,24,2015
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,22.91,2016
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,21.83,2017
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,20.75,2018
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,24.04,2019
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,26.17,2020
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,27.04,2021
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.26,2022
+IND,India,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,35.08,2023
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.39,1990
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.39,1991
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.64,1992
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.88,1993
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,84.13,1994
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.91,1995
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.69,1996
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.47,1997
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.25,1998
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.03,1999
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.81,2000
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.45,2001
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.53,2002
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.6,2003
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.68,2004
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.75,2005
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.13,2006
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,81.5,2007
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.88,2008
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.25,2009
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.63,2010
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.25,2011
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.86,2012
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.03,2013
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.19,2014
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.36,2015
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.53,2016
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.69,2017
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.86,2018
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.56,2019
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.25,2020
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.1,2021
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.14,2022
+IND,India,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.41,2023
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.424,2010
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.158,2011
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.304,2012
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.122,2013
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,34.88,2014
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.175,2015
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.609,2016
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.512,2017
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.716,2018
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,31.644,2019
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,31.902,2020
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,31.530,2021
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.769,2022
+IND,India,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.657,2023
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.075,1990
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.048,1991
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.125,1992
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.039,1993
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.053,1994
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.114,1995
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.259,1996
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.299,1997
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.311,1998
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.376,1999
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.298,2000
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.420,2001
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.306,2002
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.414,2003
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.363,2004
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.476,2005
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.666,2006
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.949,2007
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.925,2008
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.078,2009
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.164,2010
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.367,2011
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.378,2012
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.178,2013
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.115,2014
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.288,2015
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.434,2016
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.481,2017
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.642,2018
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.696,2019
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.508,2020
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.805,2021
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.007,2022
+IND,India,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.212,2023
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,498.041,1990
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,486.914,1991
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,482.331,1992
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,481.899,1993
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,444.028,1994
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,439.935,1995
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,439.493,1996
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,436.372,1997
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,403.526,1998
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,398.990,1999
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,384.448,2000
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,371.275,2001
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,329.445,2002
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,315.376,2003
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,301.253,2004
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,285.731,2005
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,248.168,2006
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,233.984,2007
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,220.520,2008
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,207.098,2009
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,178.682,2010
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,169.904,2011
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,161.756,2012
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,154.245,2013
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,134.858,2014
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,127.676,2015
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,121.169,2016
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,118.661,2017
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,115.711,2018
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,116.389,2019
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,102.654,2020
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,102.654,2021
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,102.654,2022
+IND,India,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,102.654,2023
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,138.201,1990
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,141.481,1991
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,140.18,1992
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,135.353,1993
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,136.001,1994
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,134.75,1995
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,126.782,1996
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,122.581,1997
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,122.611,1998
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,116.902,1999
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,114.352,2000
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,112.043,2001
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,105.119,2002
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,97.366,2003
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,83.5,2004
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,64.678,2005
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,55.76,2006
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,51.987,2007
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,54.289,2008
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,46.696,2009
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,41.719,2010
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,40.795,2011
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,39.533,2012
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,35.326,2013
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,28.806,2014
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,18.194,2015
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.535,2016
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.166,2017
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.133,2018
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.796,2019
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.423,2020
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.289,2021
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.185,2022
+IND,India,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.06,2023
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.664,1990
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.692,1991
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.722,1992
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.731,1993
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.755,1994
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.789,1995
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.838,1996
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.856,1997
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.857,1998
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.923,1999
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.931,2000
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.927,2001
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.940,2002
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.956,2003
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.998,2004
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.035,2005
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.102,2006
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.170,2007
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.234,2008
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.318,2009
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.352,2010
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.403,2011
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.511,2012
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.545,2013
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.643,2014
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.689,2015
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.759,2016
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.792,2017
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.894,2018
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.889,2019
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.734,2020
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.900,2021
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.998,2022
+IND,India,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.144,2023
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.077,2010
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.792,2011
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.872,2012
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.603,2013
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.318,2014
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.739,2015
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.072,2016
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,31.910,2017
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.073,2018
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,31.059,2019
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,31.138,2020
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.770,2021
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.076,2022
+IND,India,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,29.903,2023
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.781,1990
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.884,1991
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.987,1992
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.091,1993
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.194,1994
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.297,1995
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.466,1996
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.635,1997
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.805,1998
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.974,1999
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.143,2000
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.220,2001
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.297,2002
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.374,2003
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.451,2004
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.528,2005
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.635,2006
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.742,2007
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.849,2008
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.956,2009
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.063,2010
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.300,2011
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.398,2012
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.495,2013
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.593,2014
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.690,2015
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.788,2016
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.014,2017
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.240,2018
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.281,2019
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.490,2020
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.530,2021
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.570,2022
+IND,India,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.880,2023
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.795,1990
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.843,1991
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.892,1992
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.940,1993
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.988,1994
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.037,1995
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.299,1996
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.561,1997
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.824,1998
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.086,1999
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.349,2000
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.288,2001
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.227,2002
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.166,2003
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.105,2004
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.044,2005
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.183,2006
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.321,2007
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.460,2008
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.599,2009
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.737,2010
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.050,2011
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.129,2012
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.208,2013
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.286,2014
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.365,2015
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.444,2016
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.742,2017
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.040,2018
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.030,2019
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.370,2020
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.450,2021
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.530,2022
+IND,India,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.830,2023
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.623,1990
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.783,1991
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.943,1992
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.102,1993
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.262,1994
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.422,1995
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.635,1996
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.848,1997
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.061,1998
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.274,1999
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.488,2000
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.569,2001
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.651,2002
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.733,2003
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.814,2004
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.896,2005
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.987,2006
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.077,2007
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.168,2008
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.258,2009
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.349,2010
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.530,2011
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.656,2012
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.782,2013
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.908,2014
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.034,2015
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.160,2016
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.290,2017
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.420,2018
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.601,2019
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.640,2020
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.635,2021
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.630,2022
+IND,India,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.960,2023
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,864.972,1990
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,883.928,1991
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,902.957,1992
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,922.118,1993
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,941.164,1994
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,960.301,1995
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,979.678,1996
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,999.134,1997
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1018.665,1998
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1038.226,1999
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1057.923,2000
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1077.899,2001
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1097.600,2002
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1116.803,2003
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1135.992,2004
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1154.676,2005
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1172.879,2006
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1190.676,2007
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1207.931,2008
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1225.525,2009
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1243.482,2010
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1261.225,2011
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1278.675,2012
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1295.830,2013
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1312.277,2014
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1328.024,2015
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1343.944,2016
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1359.657,2017
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1374.659,2018
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1389.030,2019
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1402.618,2020
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1414.204,2021
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1425.423,2022
+IND,India,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1438.070,2023
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.342,1990
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.342,1991
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.342,1992
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.342,1993
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.342,1994
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.342,1995
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.342,1996
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.342,1997
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,8.257,1998
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,8.497,1999
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,8.497,2000
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,8.917,2001
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,8.917,2002
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.299,2003
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.276,2004
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.299,2005
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.022,2006
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.311,2007
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.184,2008
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.283,2009
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.673,2010
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.914,2011
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.886,2012
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.886,2013
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.832,2014
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,12.214,2015
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.690,2016
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.578,2017
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.682,2018
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.486,2019
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.393,2020
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.444,2021
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.634,2022
+IND,India,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.820,2023
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.658,1990
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.658,1991
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.658,1992
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.658,1993
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.658,1994
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.658,1995
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.658,1996
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.658,1997
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,91.743,1998
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,91.503,1999
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,91.503,2000
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,91.083,2001
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,91.083,2002
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.701,2003
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.724,2004
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.701,2005
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.978,2006
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.689,2007
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.816,2008
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.717,2009
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.327,2010
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.086,2011
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.114,2012
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.114,2013
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.168,2014
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,87.786,2015
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.310,2016
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.422,2017
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.318,2018
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.514,2019
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.607,2020
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.556,2021
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.366,2022
+IND,India,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.180,2023
+IND,India,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,14,2023
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.009,1990
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.336,1991
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.663,1992
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.990,1993
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,15.317,1994
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,15.644,1995
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,17.411,1996
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,19.177,1997
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,20.944,1998
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,22.710,1999
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,24.477,2000
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,24.127,2001
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,23.777,2002
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,23.427,2003
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,23.077,2004
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,22.727,2005
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,23.814,2006
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,24.902,2007
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,25.989,2008
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,27.076,2009
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,28.164,2010
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,27.75,2011
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,30.456,2012
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,30.711,2013
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,30.966,2014
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,31.220,2015
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,31.475,2016
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,33.947,2017
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,36.420,2018
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,36.148,2019
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,40.070,2020
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,41.204,2021
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,40.960,2022
+IND,India,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,43.5,2023
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,28.845,1990
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,30.084,1991
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,31.324,1992
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,32.563,1993
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,33.802,1994
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,35.042,1995
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,36.458,1996
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,37.874,1997
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,39.291,1998
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,40.707,1999
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,42.123,2000
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,42.773,2001
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,43.423,2002
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,44.073,2003
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,44.723,2004
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,45.373,2005
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,46.113,2006
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,46.854,2007
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,47.594,2008
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,48.334,2009
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,49.074,2010
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,47.130,2011
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,50.267,2012
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,50.943,2013
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,51.618,2014
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,52.294,2015
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,52.969,2016
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,54.335,2017
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.700,2018
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,56.570,2019
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,58.760,2020
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,60.509,2021
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,58.660,2022
+IND,India,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,61.090,2023
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.242,1990
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.232,1991
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.208,1992
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.183,1993
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.160,1994
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.345,1995
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.311,1996
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.490,1997
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.459,1998
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.419,1999
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.395,2000
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.544,2001
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.519,2002
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.457,2003
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.602,2004
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.559,2005
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.693,2006
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.004,2007
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.962,2008
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.109,2009
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.220,2010
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.317,2011
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.448,2012
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.252,2013
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.36,2014
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.476,2015
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.571,2016
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.698,2017
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.858,2018
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.840,2019
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.681,2020
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.864,2021
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.142,2022
+IND,India,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.234,2023
+IND,India,mpi_value,MPI Value (Range: 0 to 1),MPI,Multidimensional Poverty Index,0.069,2021
+IND,India,mpi_headcount,MPI Headcount (%),MPI,Multidimensional Poverty Index,16.4,2021
+IND,India,mpi_intensity,MPI Intensity (%),MPI,Multidimensional Poverty Index,42,2021
+IND,India,nutrition,Contribution of Nutrition to MPI (%),MPI,Multidimensional Poverty Index,28.579,2021
+IND,India,child_mortality,Contribution of Child mortality to MPI (%),MPI,Multidimensional Poverty Index,3.580,2021
+IND,India,years_of_schooling,Contribution of Years of schooling to MPI (%),MPI,Multidimensional Poverty Index,18.710,2021
+IND,India,school_attendance,Contribution of School attendance to MPI (%),MPI,Multidimensional Poverty Index,9.461,2021
+IND,India,cooking_fuel,Contribution of Cooking fuel to MPI (%),MPI,Multidimensional Poverty Index,11.222,2021
+IND,India,sanitation,Contribution of Sanitation to MPI (%),MPI,Multidimensional Poverty Index,9.112,2021
+IND,India,drinking_water,Contribution of Drinking water to MPI (%),MPI,Multidimensional Poverty Index,2.151,2021
+IND,India,electricity,Contribution of Electricity to MPI (%),MPI,Multidimensional Poverty Index,1.677,2021
+IND,India,assets,Contribution of Assets to MPI (%),MPI,Multidimensional Poverty Index,4.523,2021
+IND,India,housing,Contribution of Housing to MPI (%),MPI,Multidimensional Poverty Index,10.986,2021

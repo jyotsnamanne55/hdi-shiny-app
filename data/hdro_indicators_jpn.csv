@@ -1,0 +1,959 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.556,1990
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.866,1991
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.07,1992
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.101,1993
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.146,1994
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.049,1995
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.12,1996
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.459,1997
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.802,1998
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.08,1999
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.532,2000
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.972,2001
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.225,2002
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.982,2003
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.775,2004
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.367,2005
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.246,2006
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.145,2007
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.168,2008
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.914,2009
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.603,2010
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.477,2011
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.332,2012
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.361,2013
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.325,2014
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.04,2015
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.75,2016
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.404,2017
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.076,2018
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.772,2019
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.503,2020
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.088,2021
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,1.821,2022
+JPN,Japan,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,1.737,2023
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.357,1990
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.423,1991
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.473,1992
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.392,1993
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.806,1994
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.879,1995
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.956,1996
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.874,1997
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.537,1998
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.808,1999
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.968,2000
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.833,2001
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.047,2002
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.098,2003
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.048,2004
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.096,2005
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.908,2006
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.179,2007
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.621,2008
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.081,2009
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.483,2010
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.881,2011
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.215,2012
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.302,2013
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.914,2014
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.612,2015
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.474,2016
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.375,2017
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.049,2018
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.788,2019
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.308,2020
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.522,2021
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.331,2022
+JPN,Japan,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.020,2023
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.087,2010
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.879,2011
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.777,2012
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.742,2013
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.174,2014
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.140,2015
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.132,2016
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.398,2017
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.858,2018
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.682,2019
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.506,2020
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.495,2021
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.491,2022
+JPN,Japan,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.474,2023
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.406,1990
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.553,1991
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.743,1992
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.613,1993
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.381,1994
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,20.023,1995
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,20.227,1996
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,20.045,1997
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.118,1998
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.757,1999
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.910,2000
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.395,2001
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.904,2002
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.969,2003
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.910,2004
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.111,2005
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.826,2006
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.564,2007
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.232,2008
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.575,2009
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.869,2010
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.329,2011
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.262,2012
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.092,2013
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.834,2014
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.012,2015
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.102,2016
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.848,2017
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.830,2018
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.703,2019
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.161,2020
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.269,2021
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.309,2022
+JPN,Japan,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.135,2023
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.399,1990
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.530,1991
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.634,1992
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.093,1993
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.552,1994
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.666,1995
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.748,1996
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.831,1997
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.914,1998
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.957,1999
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.988,2000
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.019,2001
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.051,2002
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.082,2003
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.113,2004
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.145,2005
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.176,2006
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.207,2007
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.239,2008
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.270,2009
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.301,2010
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.333,2011
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.364,2012
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.395,2013
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.401,2014
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.414,2015
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.379,2016
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.388,2017
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.400,2018
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.441,2019
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.456,2020
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.433,2021
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.512,2022
+JPN,Japan,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.512,2023
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.324,1990
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.457,1991
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.612,1992
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.996,1993
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.381,1994
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.457,1995
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.549,1996
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.642,1997
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.735,1998
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.779,1999
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.813,2000
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.848,2001
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.883,2002
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.918,2003
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.953,2004
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.988,2005
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.023,2006
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.058,2007
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.092,2008
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.127,2009
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.162,2010
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.197,2011
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.232,2012
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.267,2013
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.296,2014
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.323,2015
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.321,2016
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.345,2017
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.361,2018
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.407,2019
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.424,2020
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.394,2021
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.476,2022
+JPN,Japan,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.476,2023
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.795,1990
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.992,1991
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.038,1992
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.379,1993
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.720,1994
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.800,1995
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.895,1996
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.990,1997
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.085,1998
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.139,1999
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.166,2000
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.193,2001
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.221,2002
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.248,2003
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.275,2004
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.302,2005
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.329,2006
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.356,2007
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.383,2008
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.410,2009
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.437,2010
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.464,2011
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.491,2012
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.518,2013
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.500,2014
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.500,2015
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.434,2016
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.429,2017
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.438,2018
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.474,2019
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.487,2020
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.470,2021
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.546,2022
+JPN,Japan,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.546,2023
+JPN,Japan,gdi_group,GDI Group,GDI,Gender Development Index,2,2023
+JPN,Japan,gii_rank,GII Rank,GII,Gender Inequality Index,22,2023
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,25549.478,1990
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,26349.479,1991
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,26437.818,1992
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,22924.412,1993
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,23109.651,1994
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,23758.394,1995
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,24529.540,1996
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,24834.908,1997
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,24772.304,1998
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,27331.417,1999
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,27994.238,2000
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,28237.897,2001
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,28106.693,2002
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,28498.097,2003
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,29255.520,2004
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,29713.249,2005
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,30035.888,2006
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,30330.971,2007
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,29466.234,2008
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,27088.287,2009
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,27983.648,2010
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,28119.661,2011
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,28639.451,2012
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,29806.434,2013
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,30377.803,2014
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,31601.179,2015
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,32431.282,2016
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,33381.300,2017
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,33728.035,2018
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,34189.231,2019
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,33008.694,2020
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,34379.779,2021
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,35942.074,2022
+JPN,Japan,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,37016.985,2023
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,51193.472,1990
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,52426.000,1991
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,52746.177,1992
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,56163.411,1993
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,56264.244,1994
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,57488.336,1995
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,59058.636,1996
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,59155.134,1997
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,58166.854,1998
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,54972.775,1999
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,56165.309,2000
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,56167.199,2001
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,56031.569,2002
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,56591.202,2003
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,57538.811,2004
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,58244.810,2005
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,58655.301,2006
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,59439.212,2007
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,57425.801,2008
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,56088.736,2009
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,58062.474,2010
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,57284.464,2011
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,57783.057,2012
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,58680.664,2013
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,58550.968,2014
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,60377.781,2015
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,60669.433,2016
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,60980.025,2017
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,60745.519,2018
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,60232.440,2019
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,58362.119,2020
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,59563.386,2021
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,57887.697,2022
+JPN,Japan,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,59058.772,2023
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,38205.070,1990
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,39215.799,1991
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,39414.118,1992
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,39313.660,1993
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,39452.033,1994
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,40379.108,1995
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,41538.651,1996
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,41735.462,1997
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,41210.671,1998
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,40932.111,1999
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,41849.836,2000
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,41968.385,2001
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,41828.036,2002
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,42294.585,2003
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,43137.557,2004
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,43708.540,2005
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,44065.923,2006
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,44593.164,2007
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,43158.256,2008
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,41282.319,2009
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,42697.708,2010
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,42381.810,2011
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,42888.818,2012
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,43921.643,2013
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,44147.975,2014
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,45665.372,2015
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,46232.079,2016
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,46868.464,2017
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,46930.164,2018
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,46914.563,2019
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,45394.733,2020
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,46678.917,2021
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,46656.392,2022
+JPN,Japan,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,47774.610,2023
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.830,1990
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.835,1991
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.838,1992
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.836,1993
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.843,1994
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.845,1995
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.851,1996
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.854,1997
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.857,1998
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.863,1999
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.868,2000
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.870,2001
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.872,2002
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.874,2003
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.878,2004
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.879,2005
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.882,2006
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.884,2007
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.884,2008
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.882,2009
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.884,2010
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.883,2011
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.887,2012
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.890,2013
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.893,2014
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.896,2015
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.898,2016
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.901,2017
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.902,2018
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.904,2019
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.903,2020
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.905,2021
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.906,2022
+JPN,Japan,hdi_f,HDI female,GDI,Gender Development Index,0.909,2023
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.872,1990
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.877,1991
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.878,1992
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.885,1993
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.891,1994
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.893,1995
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.899,1996
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.901,1997
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.902,1998
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.900,1999
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.904,2000
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.907,2001
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.909,2002
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.910,2003
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.914,2004
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.914,2005
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.918,2006
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.920,2007
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.920,2008
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.921,2009
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.923,2010
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.923,2011
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.926,2012
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.928,2013
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.930,2014
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.933,2015
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.933,2016
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.934,2017
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.935,2018
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.936,2019
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.936,2020
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.936,2021
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.934,2022
+JPN,Japan,hdi_m,HDI male,GDI,Gender Development Index,0.938,2023
+JPN,Japan,hdi_rank,HDI Rank,HDI,Human Development Index,23,2023
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.467,2010
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.467,2011
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.467,2012
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.467,2013
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.467,2014
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.467,2015
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.467,2016
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.374,2017
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,6.744,2018
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,6.216,2019
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.752,2020
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.752,2021
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.752,2022
+JPN,Japan,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.752,2023
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.598,2010
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.803,2011
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.803,2012
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.803,2013
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2014
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2015
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2016
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2017
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2018
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2019
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2020
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2021
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2022
+JPN,Japan,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.123,2023
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.197,2010
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.367,2011
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.063,2012
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.956,2013
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.933,2014
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.829,2015
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.806,2016
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.697,2017
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.705,2018
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.705,2019
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.642,2020
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.610,2021
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.597,2022
+JPN,Japan,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.546,2023
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.993,1990
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.262,1991
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.303,1992
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.446,1993
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.837,1994
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.684,1995
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.363,1996
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.584,1997
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.649,1998
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.613,1999
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.179,2000
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.51,2001
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.795,2002
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.854,2003
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.127,2004
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.007,2005
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.37,2006
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.549,2007
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.633,2008
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.97,2009
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.916,2010
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.671,2011
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.168,2012
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.402,2013
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.643,2014
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.883,2015
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.057,2016
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.189,2017
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.289,2018
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.418,2019
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.67,2020
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.55,2021
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.054,2022
+JPN,Japan,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.712,2023
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.865,1990
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.177,1991
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.297,1992
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.448,1993
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.9,1994
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.78,1995
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.497,1996
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.732,1997
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.921,1998
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.916,1999
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.519,2000
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.844,2001
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.143,2002
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.243,2003
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.501,2004
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.408,2005
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.696,2006
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.878,2007
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.949,2008
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,86.321,2009
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,86.232,2010
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.85,2011
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,86.351,2012
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,86.549,2013
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,86.754,2014
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,86.962,2015
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,87.106,2016
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,87.26,2017
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,87.31,2018
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,87.429,2019
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,87.727,2020
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,87.591,2021
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,87.087,2022
+JPN,Japan,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,87.741,2023
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.942,1990
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.16,1991
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.131,1992
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.266,1993
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.586,1994
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.416,1995
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.033,1996
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.242,1997
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.211,1998
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.171,1999
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.682,2000
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.014,2001
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.283,2002
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.323,2003
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.609,2004
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.496,2005
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.917,2006
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.101,2007
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.21,2008
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.511,2009
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.511,2010
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.406,2011
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.903,2012
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.173,2013
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.448,2014
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.721,2015
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.933,2016
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.061,2017
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.215,2018
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.365,2019
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.578,2020
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.499,2021
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.06,2022
+JPN,Japan,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.688,2023
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.12,1990
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.68,1991
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.73,1992
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.33,1993
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.18,1994
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.98,1995
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.04,1996
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.38,1997
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.14,1998
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.6,1999
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.28,2000
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.15,2001
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.54,2002
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.25,2003
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.25,2004
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.37,2005
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.48,2006
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.45,2007
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.42,2008
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.5,2009
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.4,2010
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.15,2011
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.09,2012
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.8,2013
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.23,2014
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.46,2015
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.26,2016
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.07,2017
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.41,2018
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.27,2019
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.12,2020
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.55,2021
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.2,2022
+JPN,Japan,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.8,2023
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.39,1990
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.61,1991
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.99,1992
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.05,1993
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.81,1994
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.63,1995
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.72,1996
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.74,1997
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.32,1998
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.91,1999
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.47,2000
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.71,2001
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.77,2002
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.15,2003
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.45,2004
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.33,2005
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.23,2006
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.17,2007
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.72,2008
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.05,2009
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.58,2010
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.17,2011
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.75,2012
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.48,2013
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.42,2014
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.28,2015
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.44,2016
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.5,2017
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.14,2018
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.36,2019
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.4,2020
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.31,2021
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.4,2022
+JPN,Japan,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.4,2023
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.372,2010
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.057,2011
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.921,2012
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.895,2013
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.425,2014
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.397,2015
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.388,2016
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.587,2017
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.121,2018
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.894,2019
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.785,2020
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.677,2021
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.686,2022
+JPN,Japan,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.649,2023
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.293,1990
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.440,1991
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.716,1992
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.589,1993
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.505,1994
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.528,1995
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.738,1996
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.640,1997
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.331,1998
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.312,1999
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.142,2000
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.464,2001
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.348,2002
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.452,2003
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.346,2004
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.623,2005
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.297,2006
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.519,2007
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.490,2008
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.160,2009
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.204,2010
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.63,2011
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.841,2012
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.542,2013
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.474,2014
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.326,2015
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.764,2016
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.287,2017
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.758,2018
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.715,2019
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.336,2020
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.344,2021
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.774,2022
+JPN,Japan,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.895,2023
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,12.953,1990
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,12.023,1991
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,11.685,1992
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,11.233,1993
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.267,1994
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.934,1995
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.129,1996
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.957,1997
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.682,1998
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.265,1999
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.527,2000
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.171,2001
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.735,2002
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.578,2003
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.321,2004
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.185,2005
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.571,2006
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.166,2007
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.011,2008
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.882,2009
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.657,2010
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.486,2011
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.302,2012
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.137,2013
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.102,2014
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.847,2015
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.870,2016
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.060,2017
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.194,2018
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.249,2019
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.315,2020
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.315,2021
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.315,2022
+JPN,Japan,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.315,2023
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.640,1990
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.685,1991
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.729,1992
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.774,1993
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.818,1994
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.863,1995
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.907,1996
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.952,1997
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.996,1998
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.041,1999
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.085,2000
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.130,2001
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.174,2002
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.218,2003
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.263,2004
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.307,2005
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.352,2006
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.396,2007
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.441,2008
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.485,2009
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.530,2010
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.544,2011
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.558,2012
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.572,2013
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.586,2014
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.600,2015
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.614,2016
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.628,2017
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.642,2018
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.656,2019
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.670,2020
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.684,2021
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.684,2022
+JPN,Japan,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.684,2023
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.340,1990
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.384,1991
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.427,1992
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.471,1993
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.514,1994
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.558,1995
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.601,1996
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.645,1997
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.688,1998
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.732,1999
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.775,2000
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.819,2001
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.862,2002
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.906,2003
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.949,2004
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.993,2005
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.036,2006
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.080,2007
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.123,2008
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.167,2009
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.210,2010
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.224,2011
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.238,2012
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.252,2013
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.266,2014
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.280,2015
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.294,2016
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.308,2017
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.322,2018
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.336,2019
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.350,2020
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.364,2021
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.364,2022
+JPN,Japan,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.364,2023
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.960,1990
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.007,1991
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.053,1992
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.100,1993
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.146,1994
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.193,1995
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.239,1996
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.286,1997
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.332,1998
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.379,1999
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.425,2000
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.472,2001
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.518,2002
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.565,2003
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.611,2004
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.658,2005
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.704,2006
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.751,2007
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.797,2008
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.844,2009
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.890,2010
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.903,2011
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.916,2012
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.929,2013
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.942,2014
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.955,2015
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.968,2016
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.981,2017
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.994,2018
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.007,2019
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.020,2020
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.033,2021
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.033,2022
+JPN,Japan,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.033,2023
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,123.400,1990
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,123.890,1991
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,124.384,1992
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,124.840,1993
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,125.287,1994
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,125.673,1995
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,125.975,1996
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,126.266,1997
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,126.549,1998
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,126.802,1999
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.028,2000
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.260,2001
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.485,2002
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.671,2003
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.816,2004
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.913,2005
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.997,2006
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,128.088,2007
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,128.156,2008
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,128.192,2009
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,128.185,2010
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,128.096,2011
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.928,2012
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.724,2013
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.487,2014
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.276,2015
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.160,2016
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,127.065,2017
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,126.913,2018
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,126.699,2019
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,126.305,2020
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,125.679,2021
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,124.998,2022
+JPN,Japan,pop_total,"Population, total (millions)",OTHER,Additional Indicators,124.371,2023
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.713,1990
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.713,1991
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.713,1992
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.713,1993
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.713,1994
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.713,1995
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.713,1996
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.713,1997
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.713,1998
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,8.777,1999
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.656,2000
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.656,2001
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.041,2002
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.904,2003
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.280,2004
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.665,2005
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.080,2006
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,12.327,2007
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,12.327,2008
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.296,2009
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.573,2010
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.435,2011
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.313,2012
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.803,2013
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10.803,2014
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.576,2015
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.250,2016
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.720,2017
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.720,2018
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.507,2019
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.366,2020
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.245,2021
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.449,2022
+JPN,Japan,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.730,2023
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.287,1990
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.287,1991
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.287,1992
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.287,1993
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.287,1994
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.287,1995
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.287,1996
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.287,1997
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.287,1998
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,91.223,1999
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.344,2000
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.344,2001
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.959,2002
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.096,2003
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.720,2004
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.335,2005
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.920,2006
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,87.673,2007
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,87.673,2008
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.704,2009
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.427,2010
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.565,2011
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.687,2012
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.197,2013
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,89.197,2014
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.424,2015
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.750,2016
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.280,2017
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.280,2018
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.493,2019
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.634,2020
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.755,2021
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.551,2022
+JPN,Japan,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.270,2023
+JPN,Japan,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,7,2023
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,64.735,1990
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,66.332,1991
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,67.928,1992
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,69.525,1993
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,71.122,1994
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,72.718,1995
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,73.943,1996
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,75.168,1997
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.393,1998
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,77.619,1999
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,78.844,2000
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,79.744,2001
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,80.644,2002
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,81.545,2003
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,82.445,2004
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,83.346,2005
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,84.432,2006
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,85.518,2007
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,86.604,2008
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,87.691,2009
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.777,2010
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,90.316,2011
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,91.856,2012
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,93.395,2013
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,94.935,2014
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.474,2015
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.822,2016
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,97.169,2017
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,97.516,2018
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,97.863,2019
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,98.210,2020
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,98.210,2021
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,98.210,2022
+JPN,Japan,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,98.210,2023
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,72.623,1990
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.958,1991
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,75.294,1992
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,76.630,1993
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,77.966,1994
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,79.301,1995
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,80.328,1996
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,81.355,1997
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,82.382,1998
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.409,1999
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,84.435,2000
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.196,2001
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.956,2002
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,86.717,2003
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,87.477,2004
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,88.238,2005
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,88.830,2006
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,89.422,2007
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.015,2008
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.607,2009
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,91.199,2010
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,92.473,2011
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,93.747,2012
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,95.021,2013
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.295,2014
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.569,2015
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.867,2016
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,98.165,2017
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,98.464,2018
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,98.762,2019
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.060,2020
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.060,2021
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.060,2022
+JPN,Japan,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.060,2023
