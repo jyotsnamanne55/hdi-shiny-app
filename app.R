@@ -41,7 +41,7 @@ ui <- fluidPage(
         multiple = TRUE,
         options = list(plugins = list("remove_button"))
       ),
-    #slecting no of rows in table
+    #selecting no of rows in table
     sliderInput(
       inputId = "num_rows",
       label = "Number of rows to display:",
